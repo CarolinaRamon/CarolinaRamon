@@ -1,7 +1,13 @@
 ### Hi there 👋
+I'm an English teacher and translator, but I am exploring the world of IT now, which is where I'd like to be working. I'm currently studying Applied Information Technology at UTN-INSPT. I'm very happy to have discovered a passion in programming! What I love the most is to have an idea and bring it to life through coding.
+Thanks for stopping by!
+
+¡Hola!
+Soy profesora y traductora de inglés, pero estoy incursionando en el mundo IT, que es donde me gustaría trabajar. Estoy estudiando la Tecnicatura en Informática Aplicada de la UTN. ¡Me encanta haber descubierto que me apasiona programar! Lo que más me gusta es tener una idea y darle vida a través del código.
+¡Gracias por pasar por aquí!
+
 
 <!--
-**CarolinaRamon/CarolinaRamon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

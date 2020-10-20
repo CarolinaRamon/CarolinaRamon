@@ -1,21 +1,20 @@
 ### Hi there 👋
-I'm an English teacher and translator, but I am exploring the world of IT now, which is where I'd like to be working. I'm currently studying Applied Information Technology at UTN-INSPT. I'm very happy to have discovered a passion in programming! What I love the most is to have an idea and bring it to life through coding.
+
+I'm an English teacher and translator, but I have been learning how to code for the last two years. I'm currently studying Applied Information Technology at UTN-INSPT. I'm very happy to have discovered a passion in programming! What I love the most is to have an idea and bring it to life through coding ⚡.
 Thanks for stopping by!
 
-¡Hola!
-Soy profesora y traductora de inglés, pero estoy incursionando en el mundo IT, que es donde me gustaría trabajar. Estoy estudiando la Tecnicatura en Informática Aplicada de la UTN. ¡Me encanta haber descubierto que me apasiona programar! Lo que más me gusta es tener una idea y darle vida a través del código.
-¡Gracias por pasar por aquí!
+Carolina
+
+
+
 
 
 <!--
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+📫 How to reach me: ...
 -->

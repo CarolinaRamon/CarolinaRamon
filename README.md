@@ -5,6 +5,9 @@ Thanks for stopping by!
 
 Carolina
 
+📫 How to reach me: 
+
+www.linkedin.com/in/ramoncarolina
 
 
 
@@ -16,5 +19,4 @@ Carolina
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: ...
 -->

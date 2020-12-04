@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an English teacher and translator, but for the last two years I have been learning how to code. I'm currently studying Applied Information Technology at UTN-INSPT. I'm very happy to have discovered a passion in programming! What I love the most is to have an idea and bring it to life through coding ⚡.
+I'm an English teacher and translator, but for the last two years I have been learning how to code. I'm currently studying Applied Information Technology at UTN-INSPT. I'm very happy to have discovered a passion in programming! What I ❤ the most is to have an idea and bring it to life through coding ⚡.
 Thanks for stopping by!
 
 Carolina

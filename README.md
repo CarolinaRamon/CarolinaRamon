@@ -1,20 +1,18 @@
-### Hi there 👋
+### Hi there
 
-For the last three years, I have been learning how to code. I'm very happy to have discovered a passion in programming! What I ❤ the most is to have an idea and bring it to life through coding ⚡. I’m currently looking for my first job in IT as a developer. My goal is to specialize in MERN, the popular JavaScript stack, that is the reason why I'm learning NodeJS and React in depth now. Also, I'm studying Programming Technology at university. Besides, I have two 4-year degrees: one in English teaching and the other one in translation.
+I'm currently looking for my first job in IT. My learning focus now is MERN, the popular JavaScript stack. Also, I'm studying Programming Technology at university, where I learned C programming. 
 
 📫 WOULD YOU LIKE TO CONTACT ME?:
-I’m based in Argentina, but I can work remotely for you! Feel free to send a connection request or reach out any time.
+I’m based in Argentina, but I can work remotely for you. Feel free to send a connection request or reach out any time.
 
-💪 My personal webpage & portfolio:
+My personal webpage & portfolio:
 https://carolina-ramon.netlify.app
 
-🚀 My LinkedIn:
+My LinkedIn:
 www.linkedin.com/in/ramoncarolina
 
-Thanks for stopping by!
-
+Thanks for stopping by.
 Best regards
-
 Carolina
 
 

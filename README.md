@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 
 I'm currently looking for my first job in IT. My learning focus now is MERN, the popular JavaScript stack. Also, I'm studying Programming Technology at university, where I learned C programming. 
 

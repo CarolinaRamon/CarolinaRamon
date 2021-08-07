@@ -12,7 +12,9 @@ My LinkedIn:
 www.linkedin.com/in/ramoncarolina
 
 Thanks for stopping by.
+
 Best regards
+
 Carolina
 
 

@@ -7,10 +7,6 @@ I'm currently looking for my first job in IT. My learning focus now is MERN (Mon
 📫 WOULD YOU LIKE TO CONTACT ME?:
 I’m based in Argentina, but I can work remotely for you. Feel free to send a connection request or reach out any time.
 
-My personal webpage & portfolio:
-https://carolina-ramon.netlify.app
-
-
 Thanks for stopping by.
 
 Best regards
@@ -19,6 +15,7 @@ Carolina
 
 <div>
     <a href="https://www.linkedin.com/in/ramoncarolina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+        <a href="https://carolina-ramon.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" target="_blank"></a> 
     <br>
     <br>
     <a href="https://github.com/CarolinaRamon">

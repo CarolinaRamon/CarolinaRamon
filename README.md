@@ -1,17 +1,18 @@
 
 
-### Hi there 👋 My name is Carolina Elizabeth Ramon
+### Hi there, I'm Carolina 👩‍💻
 
-I'm currently looking for my first job in IT. My learning focus now is MERN (Mongo + Express + React + Node), the popular JavaScript stack. Besides, I'm studying Programming Technology at university, where I also learned C programming. 
+💻 **Currently working on:** Personal developing projects;
 
-📫 WOULD YOU LIKE TO CONTACT ME?:
-I’m based in Argentina, but I can work remotely for you. Feel free to send a connection request or reach out any time.
+👩‍🎓 **Studying:** IT Engineering at University
 
-Thanks for stopping by.
+🌱 **Learning:** JavaScript, NodeJS, ReactJS;
 
-Best regards
+🧰 **Main Tools:** Visual Studio Code and GitHub;
 
-Carolina
+⚡ **Fun fact:** I LOVE learning languages 🌎;
+
+📫 **Contact me at:**
 
 <div>
     <a href="https://www.linkedin.com/in/ramoncarolina" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

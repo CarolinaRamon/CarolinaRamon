@@ -33,8 +33,10 @@
     <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
     <br>
+    <br>
 </div>
-
+ 
+![Visits Counter](https://komarev.com/ghpvc/?username=CarolinaRamon&color=blueviolet)
 
 ##
 <br>

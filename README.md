@@ -40,3 +40,5 @@ Carolina
 <div> 
    <img align="left" alt="dev-gif" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </div>
+
+![Snake animation](https://github.com/CarolinaRamon/CarolinaRamon/blob/output/github-contribution-grid-snake.svg)

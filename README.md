@@ -8,7 +8,7 @@
 
 🌱 **Learning:** JavaScript, NodeJS, ReactJS, PHP;
 
-🧰 **Main Tools:** Visual Studio Code, Git, GitHub, CodeBlocks;
+🧰 **Main Tools:** Visual Studio Code, Git, GitHub, Postman, CodeBlocks;
 
 ⚡ **Fun fact:** I LOVE learning natural languages 🌎;
 

@@ -10,7 +10,7 @@
 
 🧰 **Main Tools:** Visual Studio Code, Git, GitHub, Postman, CodeBlocks;
 
-⚡ **Fun fact:** I LOVE learning natural languages 🌎;
+⚡ **Fun fact:** I LOVE learning natural languages 🌎. I mean, I REALLY do. I'm a native speaker of Spanish, but I'm fully fluent in English. And, just for fun, I'm always making a little time to keep on learning Italian, Portuguese, French & Greek. 
 
 📫 **Contact me at:**
 

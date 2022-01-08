@@ -4,9 +4,7 @@
 
 💻 **Currently working on:** Personal developing projects;
 
-👩‍🎓 **Studying:** IT Engineering at University
-
-🌱 **Learning:** JavaScript, NodeJS, ReactJS, PHP;
+🌱 **Learning:** Java, JavaScript, NodeJS, PHP;
 
 🧰 **Main Tools:** Visual Studio Code, Git, GitHub, Postman, CodeBlocks;
 
